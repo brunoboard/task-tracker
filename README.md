@@ -12,7 +12,7 @@ O objetivo do projeto é criar um aplicativo web simples para gerenciar tarefas 
 
 ## Tecnologias
 - Frontend: HTML, CSS, JavaScript (ou React.js).
-- Backend: Node.js (ou outra linguagem preferida).
+- Backend: Node.js 
 - Banco de Dados: SQLite (ou JSON como armazenamento local inicial).
 
 ## Cronograma
