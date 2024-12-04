@@ -1,0 +1,15 @@
+O Git é uma ferramenta essencial para gerenciar o desenvolvimento do Task Tracker. Ele ajuda de várias maneiras:
+
+Controle de Versão: Permite rastrear todas as mudanças feitas no código, garantindo que você possa reverter para versões anteriores se necessário.
+
+Colaboração: Facilita o trabalho em equipe, permitindo que vários desenvolvedores trabalhem simultaneamente em diferentes partes do projeto.
+
+Branches: Com branches, você pode trabalhar em funcionalidades separadas (como interface do usuário ou backend) sem interferir no código principal. Isso ajuda a manter a organização e evita conflitos.
+
+Histórico de Alterações: Cada commit salva uma versão do código com uma mensagem descritiva, tornando mais fácil entender o que foi modificado e por quê.
+
+Merges Seguros: O Git ajuda a integrar mudanças de diferentes branches de forma estruturada, reduzindo riscos de erros ao consolidar o projeto.
+
+Backup Remoto: Repositórios hospedados (como no GitHub) garantem que o projeto esteja seguro e acessível de qualquer lugar.
+
+Essas funcionalidades tornam o desenvolvimento mais eficiente, organizado e confiável.
